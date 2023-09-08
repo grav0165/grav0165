@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="jquery.js"></script>
+    <script src="client.js"></script>
+    <title>Salary Calculator</title>
+</head>
+<body>
+    <div id="container"> <!-- container for all of the page to easier manipulate-->
+        <form id="employee-form">
+            Name: <input id="employee-name" type="text" /><br/> <!-- Input fields are self closing. This sets only text can be added to the field-->
+            Last Name: <input id="employee-last" type="text" /><br/> <!-- value="" can prepopulate values for debugging-->
+            ID: <input id="employee-id" type="text" /><br />
+            Title: <input id="employee-title" type="text" /></br />
+            Annual Salary: <input id="employee-salary" type="text" /><br />
+            <!-- button submit forms by default, the following would prevent submission-->
+            <!-- <button type="button">+</button> -->
+            <button id="submit-btn">Submit</button>
+        </form>
+        <h2>Employees</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Last</th>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Annual Salary</th>
+                    <!--TODO: Other Fields-->
+                </tr>
+            </thead>
+            <tbody id="employee-data">
+                <!-- This is where our data will be appended -->
+                <!-- <tr>
+                    <td>Emma</td>
+                </tr> -->
+            </tbody>
+        </table>
+        <div id="monthly-total">
+            Monthly Total: <span id="total-dollar">$0</span>
+        </div>
+    </div>
+</body>
+</html>
