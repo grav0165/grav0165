@@ -100,6 +100,12 @@ Hobbies outside of programming involves retro video game preservation 🕹️, g
   &nbsp;
   <img
     src="https://img.shields.io/badge/.NET-282C34?style=for-the-badge&logo=.net&logoColor=61DAFB"
+    alt="Java Logo"
+    title="Java"
+    height="25"
+  />
+  <img
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
     alt=".NET logo"
     title=".NET"
     height="25"
@@ -108,7 +114,7 @@ Hobbies outside of programming involves retro video game preservation 🕹️, g
 </p>
 
 
-#### 👯 Connect with me
+#### Connect with me
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/aubrey-graves/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:grav0165@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
