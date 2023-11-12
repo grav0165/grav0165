@@ -39,6 +39,7 @@ Hobbies outside of programming involves retro video game preservation 🕹️, g
     title="PostgreSQL"
     height="25"
   />
+  
 
 <!-- <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git logo" title="Git" height="25" />
 &nbsp;
@@ -115,6 +116,7 @@ Hobbies outside of programming involves retro video game preservation 🕹️, g
     title="Python"
     height="25"
   />
+  &nbsp;
 </p>
 
 
