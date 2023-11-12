@@ -110,6 +110,12 @@ Hobbies outside of programming involves retro video game preservation 🕹️, g
     height="25"
   />
   &nbsp;
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python Logo"
+    title="Python"
+    height="25"
+  />
 </p>
 
 
