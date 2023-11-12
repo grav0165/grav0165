@@ -33,7 +33,6 @@ Hobbies outside of programming involves retro video game preservation 🕹️, g
     title="Node.js"
     height="25"
   />
-  &nbsp;
   <img
     src="https://img.shields.io/badge/postgres-282C34.svg?style=for-the-badge&logo=postgresql&logoColor=61DAFB"
     alt="PostgreSQL logo"
