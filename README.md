@@ -33,6 +33,7 @@ Hobbies outside of programming involves retro video game preservation 🕹️, g
     title="Node.js"
     height="25"
   />
+  &nbsp;
   <img
     src="https://img.shields.io/badge/postgres-282C34.svg?style=for-the-badge&logo=postgresql&logoColor=61DAFB"
     alt="PostgreSQL logo"
@@ -103,6 +104,7 @@ Hobbies outside of programming involves retro video game preservation 🕹️, g
     title="Java"
     height="25"
   />
+  &nbsp;
   <img
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
     alt=".NET logo"
@@ -116,7 +118,7 @@ Hobbies outside of programming involves retro video game preservation 🕹️, g
     title="Python"
     height="25"
   />
-  &nbsp;
+
 </p>
 
 
